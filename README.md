@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Angular and React**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, Angular**
 
