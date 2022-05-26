@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning **React** 
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, Angular**
+- 
+- ⚡ Fun fact: Big Fan of the 🐍 Python Lang.
+- 
 - 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://codepen.io/vishalsingh119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Vishal Singh Codepen Profile" height="30" width="40" /></a>
